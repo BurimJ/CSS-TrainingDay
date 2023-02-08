@@ -1,0 +1,54 @@
+body {
+  background-color: red;
+  color: white;
+}
+
+header {
+  background-color: blueviolet;
+  color: whitesmoke;
+}
+
+section {
+  color: cyan;
+  background-color: brown;
+}
+
+h2 {
+  color: chartreuse;
+}
+
+#about {
+  background-color: grey;
+}
+
+#boxmodel,
+#units,
+#fonts {
+  background-color: darkslategray;
+}
+
+.codebox {
+  background-color: darkolivegreen;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  background-color: pink;
+}
+
+nav > li {
+  color: white;
+}
+
+/* section.codebox {
+  background-color: blue;
+}  e mer sectiornin g ka codebox*/
+
+/* section .codebox {
+  background-color: red;
+}  - e mer codebox g osht te sectioni*/
+
+/* flukeout per tu msau */
